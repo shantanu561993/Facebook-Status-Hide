@@ -20,7 +20,6 @@ And of course Facebook Status Hide itself is open source with a [public reposito
 
 ### Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
 
 You need selenium and requests installed globally:
 
